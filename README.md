@@ -86,7 +86,7 @@ The project also aims to combine Saudi heritage with modern technology and AI-as
 
 This project was developed as part of a training course at **SDAIA Academy**, the training academy of the Saudi Data & AI Authority (SDAIA).
 
-[SDAIA Academy]([https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx](https://github.com/SDAIAAcademy))
+[SDAIA Academy] ([https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx](https://github.com/SDAIAAcademy)
 
 ## Project Status 🚀
 
